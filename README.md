@@ -17,4 +17,4 @@ It performs basic arithmetic operations: Addition, Subtraction, Multiplication, 
 
 ## Live Demo
 
-[Click here to open the calculator]
+[Click here to open the calculator](https://karishma-17.github.io/Calculator/)
